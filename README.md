@@ -1,14 +1,6 @@
-summary of the SQL functions and clauses used:
 
-SELECT Statement
-JOIN Clause (INNER JOIN and LEFT JOIN)
-COUNT() Function
-GROUP BY Clause
-HAVING Clause
-YEAR() and MONTH() 
-ISNULL() Function
 
-In conclusions :
+In Summary :
 
 This project offers insights to enhance work efficiency and decision-making.
 
